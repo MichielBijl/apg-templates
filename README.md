@@ -15,7 +15,7 @@ Various designs for [Authoring Practices Guide](http://www.w3.org/TR/wai-aria-pr
 
 * Include prettyprint?
 * Keep concise; should be a clear reference document
-  * Drop keyboard support tables? This information is in the APG (Authoring Practices Guide) anyway.
+  * Drop keyboard support tables? This information is in the APG (Authoring Practices Guide).
   * Link to JavaScript rather than include the whole thing?
 * Include short code snippets?
   * As in: write it as a tutorial rather than dump the code.
