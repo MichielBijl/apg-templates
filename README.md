@@ -9,6 +9,7 @@ Various designs for [Authoring Practices Guide](http://www.w3.org/TR/wai-aria-pr
 * [michielbijl.nl](http://www.michielbijl.nl/2014/09/25/buttons-with-a-double-function/#main)
 * [CSS Tricks](https://css-tricks.com/click-svg-to-focus/)
 * [CSS Tricks (extended tutorial)](https://css-tricks.com/the-blur-up-technique-for-loading-background-images/)
+* [WCAG Diff document](http://www.w3.org/WAI/GL/2016/WD-WCAG20-TECHS-20160105/complete-diff.html#C7)
 
 ## Thoughts
 
